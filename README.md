@@ -19,3 +19,9 @@ Live Demo - Link
 - For build or testing you can refer vite react doc. (This project build using vite react typescript template)
 
 ### Screenshorts
+
+[Alt text](screenshots/1.png?raw=true "Initial Screenshort")
+
+[Alt text](screenshots/2.png?raw=true "Winner Screenshort")
+
+[Alt text](screenshots/3.png?raw=true "Aflter Selecting Bomb Screenshort")

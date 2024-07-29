@@ -20,8 +20,8 @@ Live Demo - Link
 
 ### Screenshorts
 
-[Alt text](screenshots/1.png?raw=true "Initial Screenshort")
+![Alt text](screenshots/1.png?raw=true "Initial Screenshort")
 
-[Alt text](screenshots/2.png?raw=true "Winner Screenshort")
+![Alt text](screenshots/2.png?raw=true "Winner Screenshort")
 
-[Alt text](screenshots/3.png?raw=true "Aflter Selecting Bomb Screenshort")
+![Alt text](screenshots/3.png?raw=true "Aflter Selecting Bomb Screenshort")

@@ -1,0 +1,77 @@
+.box {
+  height: 100px;
+  width: 100%;
+  border: 1px solid gray;
+  margin: 5px;
+  border-radius: 10%;
+}
+
+.green {
+  background: #56ab2f; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #56ab2f,
+    #a8e063
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #56ab2f, #a8e063);
+}
+.red {
+  background: #cb2d3e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ef473a,
+    #cb2d3e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ef473a,
+    #cb2d3e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.gold {
+  background: #ffb75e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ed8f03,
+    #ffb75e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ed8f03,
+    #ffb75e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.defaultBg {
+  background: #6a3093; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #a044ff,
+    #6a3093
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #a044ff,
+    #6a3093
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.svgContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.svgArt {
+  width: 50px;
+  height: 50px;
+}
+
+.activePointer {
+  cursor: pointer;
+}
+.disablePointer {
+  cursor: not-allowed;
+}

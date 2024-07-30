@@ -4,7 +4,7 @@ This is simple find the mine game. In this gave you will have total 36 card. amo
 
 Initailly all cards are hidden based on how you open then your scores will update.
 
-Live Demo - Link
+Live Demo - [The Find Mine Game | CSTradic](https://findmine.cstradic.com/)
 
 ### Requirement
 

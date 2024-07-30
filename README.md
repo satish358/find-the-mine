@@ -1,4 +1,4 @@
-# Find The Min
+# Find The Mine
 
 ![Alt text](/screenshots/small-logo-removebg-preview.png "Game Logo")
 

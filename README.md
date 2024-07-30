@@ -1,5 +1,7 @@
 # Find The Min
 
+![Alt text](/screenshots/small-logo-removebg-preview.png "Game Logo")
+
 This is simple find the mine game. In this gave you will have total 36 card. among then level wise some card hold bombs, some card hold mine (winner), some card are same cards.
 
 Initailly all cards are hidden based on how you open then your scores will update.
